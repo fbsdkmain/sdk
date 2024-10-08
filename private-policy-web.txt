@@ -1,1 +1,1 @@
-private-policy
+.club/playyy/screen-size/
