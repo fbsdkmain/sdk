@@ -1,1 +1,1 @@
-.club/playyy/test-url
+.club/playyy/screen-size/v1
